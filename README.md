@@ -1,2 +1,3 @@
 # azureSmallWebsite
-testin to use azure to manage websites
+testing to use azure to manage websites
+Here tsting how to push back my commits
